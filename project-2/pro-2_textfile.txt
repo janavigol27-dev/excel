@@ -1,0 +1,49 @@
+=> . Main task perform in Analyzer : 
+
+
+1. Total Purchase Calculate : Use Multiplication and Discount Subtraction . 
+
+2. Top 10 Customer Highlight (Total Purchase Base) : Use RANK function in Conditional Formatting .
+
+3. Profit vs Sales Linear Regression : Use Data Analysis Tool Pak → Regression tool . 
+
+4. Data Set Descriptive Statistics : Use Data Analysis Tool Pak → Descriptive Statistics . 
+
+5. Monthly Growth (Up/Down Arrow) : Use Conditional Formatting → Icon Sets (Up/Down Arrows) based on month growth . 
+
+6. Monthly Total Calculate (Date Criteria) : Use SUMIFS function with DATE and EOMONTH . 
+
+7. Monthly Growth % (With IF Condition) : Use IF function to avoid divide by zero error .
+
+8. Timestamp Insert : Use NOW() function . 
+
+9. Highest Value Customer Find : Use INDEX + MATCH with MAX function . 
+
+10. Total Profit Calculate : Use SUM function . 
+
+11. Final Profit (After Deduction) : Use Multiplication and Subtraction formula . 
+
+12. Final Profit What-If Analysis : Use What-If Analysis → Data Table . 
+
+13. Region & Category Wise Sales Summary : Use Pivot Table (Sum of Sales) . 
+
+14. Region & Category Wise Sales Chart : Use Clustered Column Chart (Pivot Chart) . 
+
+15. Category Wise Sales Distribution : Use Pivot Chart → Pie Chart (Sum of Sales) . 
+
+16. Region Wise Total Sales Summary : Use Pivot Table (Sum of Sales) . 
+
+17. Region Wise Total Sales Chart : Use Bar Chart (Pivot Chart) . 
+
+18. Sales Performance Dashboard : Combine Pivot Tables, Pivot Charts & Slicers .
+
+19. Region & Category Wise Sales Chart : Use Clustered Column Chart (Pivot Chart) . 
+
+20. Category Wise Sales Distribution : Use Pie Chart (Pivot Chart) . 
+
+21. Region Wise Total Sales Chart : Use Bar Chart (Pivot Chart) . 
+
+22. Product Category Filter : Use Slicer (Product Category) . 
+
+23. Region Filter : Use Slicer (Region) . 
+ 
