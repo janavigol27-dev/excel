@@ -1,0 +1,38 @@
+=> . Main data :-
+
+
+1. Calculate Year (Year Base) : Use DATEDIF Function . 
+
+2. Find Month End Date : Use EOMONTH Function . 
+
+3. Display Current Date & Time : Use NOW Function . 
+
+4. Calculate Total Revenue : Use SUM Function . 
+
+5. Calculate Average Order Value : Use AVERAGE Function .
+
+6. What-If Analysis (Scenario Manager) : Use Scenario Manager Tool . 
+
+7. Goal Seek (Target Value Calculation) : Use Goal Seek Tool . 
+
+8. Find Top Value with Name : Use INDEX + MATCH + MAX . 
+
+9. Find Most Frequent Item : Use INDEX + MATCH + COUNTIF . 
+
+10. Compare Two Lists : Use IF Function . 
+
+11. Convert First 3 Letters to Uppercase : Use UPPER + LEFT . 
+
+12. Convert Category Name to Short Code : Use Nested IF . 
+
+13. Loyal Customer Highlight (More than 3 Orders) . 
+
+14. Total Amount me Up & Down Arrow : Use Conditional Formatting (Icon Set) .
+
+15. Linear Regression : Use SLOPE + INTERCEPT . 
+
+16. Pivot Table : Use Insert → PivotTable . 
+
+17. Dashboard : Use Charts + Slicers + Timeline + kpi . 
+
+18. Filter and Group By were not working in my file, so I completed the task using another method .

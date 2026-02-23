@@ -1,0 +1,35 @@
+=> . Main Data :-
+
+
+1. Import Dataset . 
+
+2. Data Cleaning Functions : Use TRIM & PROPER . 
+
+3. Remove Duplicates : Use Data → Remove Duplicates . 
+
+4. Handle Missing Values . 
+
+5. There were no duplicate or missing values in my dataset, but if there were any, 
+I would remove duplicates and fix missing data to keep the data accurate and clean.
+
+6. Format Data Types : Use Currency & Date Format . 
+
+7. Data Analysis Tool : Use Linear Regression . 
+
+8. Data Analysis Tool : Use Descriptive Statistics . 
+
+9. Lookup Function : Use VLOOKUP with cell reference . 
+
+10. Find Total_Revenue : Use INDEX + MATCH . 
+
+11. Conditional Formatting : Use Up & Down Arrows .
+
+12. Charts : Use Different Chart Types .
+
+13. Slicer : Use Insert → Slicer . 
+
+14. Timeline : Use Insert → Timeline . 
+
+15. Dashboard with KPI : Use Charts + KPI Indicators .
+
+16. Sheet Organization & Naming Convention .
